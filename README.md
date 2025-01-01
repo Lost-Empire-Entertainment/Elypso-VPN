@@ -1,6 +1,6 @@
 # Elypso VPN
 
-**Elypso VPN** is a free, open-source C++ 20 program for creating secure virtual LAN networks, designed specifically for gaming. It enables you to play games with friends on different networks as if you were on the same local LAN. Running natively on Windows 11 and Linux (tested on Ubuntu-based distros and Arch), Elypso VPN is simple, fast, and built for gamers. It uses several libraries listed in [the library file](LIBRARIES.md).
+**Elypso VPN** is a free, open-source C++ 20 program for creating secure virtual LAN networks, designed specifically for gaming. It enables you to play games with friends on different networks as if you were on the same local LAN. Running natively on Windows 10, 11 and Linux (tested on Ubuntu-based distros and Arch), Elypso VPN is simple, fast, and built for gamers. It uses several libraries listed in [the library file](LIBRARIES.md).
 
 ---
 
