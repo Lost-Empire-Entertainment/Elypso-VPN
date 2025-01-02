@@ -1,8 +1,8 @@
 # Elypso VPN
 
-**Elypso VPN** is a free, MIT-licensed, **open-source** program written in **C++20** that lets you create secure virtual LAN networks, perfect for **gaming LAN games across different networks**. This is not a professionally developed program—it's a **hobby project** I made to learn networking and to use with my friends and family. While it works well for us, it's shared "as-is" for others who might find it fun or useful, but it is not guaranteed to run perfectly for everyone.
+**Elypso VPN** is a free, MIT-licensed, **open-source** program written in **C++20** that lets you create secure virtual LAN networks, perfect for **gaming LAN games across different networks**. It's **simple**, **fast**, and built with gaming in mind, making it a great choice for playing games with friends on separate networks.
 
-**Elypso VPN** runs on **Windows 10**, **Windows 11**, and **Linux** (tested on **Ubuntu-based distros** and **Arch**). It's **simple**, **fast**, and built with gaming in mind, using several libraries listed in [the library file](LIBRARIES.md). Feel free to check it out, try it, and even improve upon it if you'd like!
+**Elypso VPN** runs on **Windows 10**, **Windows 11**, and **Linux** (tested on **Ubuntu-based distros** and **Arch**). It uses several libraries listed in [the library file](LIBRARIES.md). Feel free to check it out, try it, and even improve upon it if you'd like!
 
 Please note that the external libraries used in this project are not maintained, owned, or created by Lost Empire Entertainment. As such, **LICENSE.md** does not apply to them—they are governed by their respective licenses, which are included in their folders.
 
@@ -25,7 +25,3 @@ Lost Empire Entertainment accepts all security vulnerability concerns or discove
 * [Greenlaser](https://github.com/greeenlaser) - *Lead developer*
 
 ---
-
-### Licenses
-
-* [Elypso VPN propietary license](LICENSE.md)
